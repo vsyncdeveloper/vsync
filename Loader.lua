@@ -1,4 +1,4 @@
-repeat wait() until game:IsLoaded()  
+repeat wait() until game:IsLoaded()
 
 if game.PlaceId == 9872472334 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Evade.lua"))()
@@ -8,8 +8,18 @@ else
     else
         if game.Placeid == 5942932659 then
             loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Wormface!.lua"))()
+        else
+            if game.Placeid == 7952502098 then
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Glass-Bridge-Obby.lua"))()
+            else
+                if game.PlaceId == 11302865934 then
+                    loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Every-second-you-get-%2B1-health.lua"))()
+                end
+            end
         end
     end
 end
 
 -- MY LOADSTRING -- loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Loader.lua"))()
+
+-- DISCORD INVITE -- https://discord.gg/UFpgaw7zk2
