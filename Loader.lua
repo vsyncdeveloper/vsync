@@ -20,6 +20,10 @@ else
                     else
                         if game.PlaceId == 5985232436 then
                             loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Infectious-smile"))()
+                        else
+                            if game.PlaceId == 5985232436 then
+                                loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Tiny-bread-factory.lua"))()
+                            end
                         end
                     end
                 end
@@ -27,6 +31,7 @@ else
         end
     end
 end
+
 -- MY LOADSTRING -- loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Loader.lua"))()
 
 -- DISCORD INVITE -- https://discord.gg/UFpgaw7zk2
