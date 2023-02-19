@@ -10,7 +10,7 @@ else
             loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Wormface!.lua"))()
         else
             if game.Placeid == 7952502098 then
-                loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Glass-Bridge-Obby.lua"))()
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Glass-bridge-obby.lua"))()
             else
                 if game.PlaceId == 11302865934 then
                     loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Every-second-you-get-%2B1-health.lua"))()
