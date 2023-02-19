@@ -17,6 +17,10 @@ else
                 else
                     if game.PlaceId == 1962086868 then
                         loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Tower-of-hell.lua"))()
+                    else
+                        if game.PlaceId == 5985232436 then
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Infectious-smile"))()
+                        end
                     end
                 end
             end
