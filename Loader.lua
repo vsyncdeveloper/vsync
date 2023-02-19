@@ -8,7 +8,6 @@ else
     else
         if game.Placeid == 5942932659 then
             loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Wormface!.lua"))()
-        else
         end
     end
 end
