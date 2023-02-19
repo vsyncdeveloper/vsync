@@ -14,12 +14,15 @@ else
             else
                 if game.PlaceId == 11302865934 then
                     loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Every-second-you-get-%2B1-health.lua"))()
+                else
+                    if game.PlaceId == 1962086868 then
+                        loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Tower-of-hell.lua"))()
+                    end
                 end
             end
         end
     end
 end
-
 -- MY LOADSTRING -- loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Loader.lua"))()
 
 -- DISCORD INVITE -- https://discord.gg/UFpgaw7zk2
