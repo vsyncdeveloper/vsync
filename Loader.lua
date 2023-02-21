@@ -26,6 +26,10 @@ else
                             else
                                 if game.PlaceId == 2413927524 then
                                     loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/The-rake-remastered.lua"))()
+                                else
+                                    if game.PlaceId == 11989217843 then
+                                        loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Find-the-family-guy.lua"))()
+                                    end
                                 end
                             end
                         end
