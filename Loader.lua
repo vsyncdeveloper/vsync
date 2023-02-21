@@ -29,6 +29,10 @@ else
                                 else
                                     if game.PlaceId == 11989217843 then
                                         loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Find-the-family-guy.lua"))()
+                                    else
+                                        if game.PlaceId == 9498006165 then
+                                            loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Tapping-sim.lua"))()
+                                        end
                                     end
                                 end
                             end
