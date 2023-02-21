@@ -19,7 +19,7 @@ else
                         loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Tower-of-hell.lua"))()
                     else
                         if game.PlaceId == 5985232436 then
-                            loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Infectious-smile"))()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Infectious-smile.lua"))()
                         else
                             if game.PlaceId == 7664045612 then
                                 loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Tiny-bread-factory.lua"))()
