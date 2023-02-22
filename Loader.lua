@@ -32,6 +32,10 @@ else
                                     else
                                         if game.PlaceId == 9498006165 then
                                             loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Tapping-sim.lua"))()
+                                        else
+                                            if game.PlaceId == 2158075212 then
+                                                loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Mining-tycoon-revival.lua"))()
+                                            end
                                         end
                                     end
                                 end
