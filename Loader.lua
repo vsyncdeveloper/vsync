@@ -35,6 +35,10 @@ else
                                         else
                                             if game.PlaceId == 2158075212 then
                                                 loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Mining-tycoon-revival.lua"))()
+                                            else
+                                                if game.PlaceId == 32990482 then
+                                                    loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/main/Flood-escape-classic.lua"))()
+                                                end
                                             end
                                         end
                                     end
