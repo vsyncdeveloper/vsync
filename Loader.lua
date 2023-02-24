@@ -38,6 +38,10 @@ else
                                             else
                                                 if game.PlaceId == 32990482 then
                                                     loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/main/Flood-escape-classic.lua"))()
+                                                else
+                                                    if game.PlaceId == 10760024537 then
+                                                        loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Ultimate-easy-obby.lua"))()
+                                                    end
                                                 end
                                             end
                                         end
