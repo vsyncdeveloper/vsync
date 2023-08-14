@@ -58,4 +58,4 @@ end
 
 -- MY LOADSTRING -- loadstring(game:HttpGet("https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Loader.lua"))()
 
--- DISCORD INVITE -- https://discord.gg/UFpgaw7zk2
+-- DISCORD INVITE -- https://discord.gg/TN2dz5ChZS
